@@ -24,7 +24,8 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4739dd6a-530e-43e9-95f3-0b3addc75049.jpg
 collections:
   - index:
       path: /
@@ -37,5 +38,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Truth Be Told
+title: Radio Awakening
 purpose: []
